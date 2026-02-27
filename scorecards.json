@@ -1,0 +1,367 @@
+[
+  {
+    "submission_id": 1,
+    "result": {
+      "weighted_score": 0.4813,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.12,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 2,
+    "result": {
+      "weighted_score": 0.6687,
+      "quality_rating": "Fair",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.88,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 3,
+    "result": {
+      "weighted_score": 0.33,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 0.5,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Weak Markdown structure.",
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 4,
+    "result": {
+      "weighted_score": 0.43,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 5,
+    "result": {
+      "weighted_score": 0.4813,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.12,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 6,
+    "result": {
+      "weighted_score": 0.6687,
+      "quality_rating": "Fair",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.88,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 7,
+    "result": {
+      "weighted_score": 0.33,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 0.5,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Weak Markdown structure.",
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 8,
+    "result": {
+      "weighted_score": 0.43,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 9,
+    "result": {
+      "weighted_score": 0.4813,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.12,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 10,
+    "result": {
+      "weighted_score": 0.6687,
+      "quality_rating": "Fair",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.88,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 11,
+    "result": {
+      "weighted_score": 0.33,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 0.5,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Weak Markdown structure.",
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 12,
+    "result": {
+      "weighted_score": 0.43,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 13,
+    "result": {
+      "weighted_score": 0.4813,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.12,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 14,
+    "result": {
+      "weighted_score": 0.6687,
+      "quality_rating": "Fair",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.88,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 15,
+    "result": {
+      "weighted_score": 0.33,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 0.5,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Weak Markdown structure.",
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 16,
+    "result": {
+      "weighted_score": 0.43,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 17,
+    "result": {
+      "weighted_score": 0.4813,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.12,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 18,
+    "result": {
+      "weighted_score": 0.6687,
+      "quality_rating": "Fair",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.88,
+        "clarity": 1.0,
+        "validity": 1.0
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 19,
+    "result": {
+      "weighted_score": 0.33,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 0.5,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Weak Markdown structure.",
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  },
+  {
+    "submission_id": 20,
+    "result": {
+      "weighted_score": 0.43,
+      "quality_rating": "Poor",
+      "scores": {
+        "completeness": 0.0,
+        "format_compliance": 1.0,
+        "coverage": 0.0,
+        "clarity": 1.0,
+        "validity": 0.8
+      },
+      "feedback": [
+        "Content is too brief."
+      ],
+      "pass_threshold": false
+    }
+  }
+]
